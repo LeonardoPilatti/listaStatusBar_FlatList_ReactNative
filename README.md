@@ -1,0 +1,1 @@
+# listaStatusBar_FlatList_ReactNative
